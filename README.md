@@ -1,1 +1,1 @@
-# css-cv-website
+Made my CV while learning CSS
